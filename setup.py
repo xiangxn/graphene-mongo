@@ -5,7 +5,7 @@ setup(
     version="0.2.12",
     description="Graphene Mongoengine integration",
     long_description=open("README.rst").read(),
-    url="https://github.com/graphql-python/graphene-mongo",
+    url="https://github.com/xiangxn/graphene_mongo",
     author="Abaw Chen",
     author_email="abaw.chen@gmail.com",
     license="MIT",
